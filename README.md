@@ -1,2 +1,2 @@
-# sosyapappui
+# socialappui
  
